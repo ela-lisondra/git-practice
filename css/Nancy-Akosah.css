@@ -1,27 +1,26 @@
-/***** BASE STYLES *****/
-
 body {
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: #eddff7;
 }
 
 h1 {
-    font-size: 2.25em;
+    font-size: 28px;
     color: #333;
     margin-top: 1em;
 }
 
 h4 {
-    font-size: 1.5em;
+    font-size: 18px;
+    font-style: italic;
     font-weight: bold;
-    color: #f16059;
+    color: #2d1d1c;
 }
 
 a {
     text-decoration: none;
-    color: #bb433d;
+    color: #2d1d1c;
 }
 
 footer {
